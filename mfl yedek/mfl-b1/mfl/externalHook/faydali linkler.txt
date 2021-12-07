@@ -1,0 +1,3 @@
+https://ourcodeworld.com/articles/read/573/how-to-register-a-single-or-multiple-global-hotkeys-for-a-single-key-in-winforms
+
+https://bytes.com/topic/c-sharp/answers/948739-how-register-multiple-global-hot-keys-c
