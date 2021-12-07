@@ -53,6 +53,6 @@ https://www.microsoft.com/en-us/download/details.aspx?id=13255
  * Projenin içeriğindeki her türlü script ve dökümanı dilediğiniz gibi kullanabilirsiniz.
  * Proje üzerinde değişiklik yapmadan, olduğu gibi paylaşacaksanız attribution verilmesi gururumu okşar.
  * Manuel olarak GC kullanarak memory temizliği yapmayı bilmediğim için, 2. form ("serbest" adlı form) açılıp kapandıkça
- * uygulamanın bellekte kapladığı yer de artmaktadır. Bunu takip etmek için görev yöneticisinden bellek kullanımı takip etmeniz
+ * uygulamanın bellekte kapladığı yer de artmaktadır. Bunu takip etmek için görev yöneticisinden bellek kullanımını takip etmeniz
  * bile yeterli olacaktır. Dispose fonksiyonları veya manuel GC oluşturabilen arkadaşlar varsa üzerine ekleme yapıp bana yollarsa sevinirim.
  */
