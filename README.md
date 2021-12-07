@@ -1,3 +1,6 @@
+Örnek:
+https://youtu.be/3zai9HsA1UI
+
 OKUMADAN PROJEYİ VEYA BUİLDLERİ KULLANMAYINIZ.
 
 Çözümünüz OleDB'yi tanımıyorsa aşağıdaki NuGet paket yükleyicisini kullanabilirsiniz:
@@ -13,7 +16,7 @@ https://www.microsoft.com/en-us/download/details.aspx?id=13255
  * !ÖNEMLİ!
  * ÇALIŞTIRMA NOTLARI:
  * 
- * 1- db klasöründeki veri tabanının ismini değiştirmeden C kök dizininize olduğu gibi kopyalayıp yapıştırın.
+ * 1- mfl/builds/A0.1/database klasöründeki mydb isimli veri tabanının ismini değiştirmeden C kök dizininize olduğu gibi kopyalayıp yapıştırın.
  * 2- uygulamayı muhakkak yönetici olarak çalıştırın.
  * 
  * UYGULAMANIN MAİN FORMU GİZLENMİŞTİR.
@@ -46,7 +49,7 @@ https://www.microsoft.com/en-us/download/details.aspx?id=13255
  * projede kullanılan GH scripti için attribution şu şekildedir:
  * http://tutplusplus.blogspot.com/2010/10/ultimate-keylogger-lesson-1-global.html
  * Proje öğrenim amaçlı geliştirildiği için: 
- * İçerisinde ölümcül buglar, absürt kod blokları ve hatalar bulunabilir, bunun sorumluluğunu alarak derleyip makineniz üzerinde çalıştırın.
+ * İçerisinde ölümcül buglar, absürt kod blokları ve hatalar bulunabilir, hatta hiç çalışmayabilir; bunun sorumluluğunu alarak derleyip makineniz üzerinde çalıştırın.
  * Projenin içeriğindeki her türlü script ve dökümanı dilediğiniz gibi kullanabilirsiniz.
  * Proje üzerinde değişiklik yapmadan, olduğu gibi paylaşacaksanız attribution verilmesi gururumu okşar.
  * Manuel olarak GC kullanarak memory temizliği yapmayı bilmediğim için, 2. form ("serbest" adlı form) açılıp kapandıkça
