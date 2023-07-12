@@ -11,7 +11,7 @@ Test aşamasından önce sisteminize Microsoft Access Database Engine kurmanız 
 
 https://www.microsoft.com/en-us/download/details.aspx?id=13255
 
-/*  Bu proje Samet KAYA tarafından öğrenim/pekiştirme amacıyla geliştirilmiştir. 
+/*  Bu proje Samet KAYA tarafından öğrenim/pekiştirme amacıyla geliştirilmiştir, out-dated teknolojiler ve absürt algoritmalara tanık olursanız gülmeyi bir tercih olarak değerlendirebilirsiniz. 
  * 
  * !ÖNEMLİ!
  * ÇALIŞTIRMA NOTLARI:
@@ -50,8 +50,6 @@ https://www.microsoft.com/en-us/download/details.aspx?id=13255
  * http://tutplusplus.blogspot.com/2010/10/ultimate-keylogger-lesson-1-global.html
  * Proje öğrenim amaçlı geliştirildiği için: 
  * İçerisinde ölümcül buglar, absürt kod blokları ve hatalar bulunabilir, hatta hiç çalışmayabilir; bunun sorumluluğunu alarak derleyip makineniz üzerinde çalıştırın.
- * Projenin içeriğindeki her türlü script ve dökümanı dilediğiniz gibi kullanabilirsiniz.
- * Proje üzerinde değişiklik yapmadan, olduğu gibi paylaşacaksanız attribution verilmesi gururumu okşar.
  * Manuel olarak GC kullanarak memory temizliği yapmayı bilmediğim için, 2. form ("serbest" adlı form) açılıp kapandıkça
  * uygulamanın bellekte kapladığı yer de artmaktadır. Bunu takip etmek için görev yöneticisinden bellek kullanımını takip etmeniz
  * bile yeterli olacaktır. Dispose fonksiyonları veya manuel GC oluşturabilen arkadaşlar varsa üzerine ekleme yapıp bana yollarsa sevinirim.
